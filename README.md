@@ -59,6 +59,21 @@ The model combines elements of micromechanics, phenomenology, and thermodynamics
 
 ---
 
+## Purpose
+
+This project is intended as an educational and research-oriented implementation.
+
+The goal is not to provide a production-ready FEM solver, but to demonstrate
+a full implementation of a SMA model, including numerical
+integration and finite element assembly.
+
+The code may be useful for students and researchers interested in:
+- finite element methods
+- constitutive modeling of shape memory alloys
+- implementation of custom material models
+
+---
+
 ## Dependencies
 
 * C++17 compatible compiler
